@@ -8,7 +8,7 @@ namespace ClassLibrary
         {
             get
             {
-                return "Welcome from ClassLibrary"
+                return "Welcome from ClassLibrary";
             }
         }
     }
