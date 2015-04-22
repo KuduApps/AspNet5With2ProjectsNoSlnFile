@@ -5,16 +5,16 @@
         "wwwroot"
     ],
     "packExclude": [
-        "**.kproj",
+        "**.xproj",
         "**.user",
         "**.vspscc"
     ],
     "dependencies": {
-        "Microsoft.AspNet.Server.IIS": "1.0.0-beta3",
+        "Microsoft.AspNet.Server.IIS": "1.0.0-beta4",
         "ClassLibrary": ""
     },
     "frameworks" : {
-        "aspnet50" : { },
-        "aspnetcore50" : { }
+        "dnx451" : { },
+        "dnxcore50" : { }
     }
 }
