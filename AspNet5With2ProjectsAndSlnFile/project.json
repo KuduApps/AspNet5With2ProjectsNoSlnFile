@@ -10,7 +10,7 @@
         "**.vspscc"
     ],
     "dependencies": {
-        "Microsoft.AspNet.Server.IIS": "1.0.0-beta6",
+        "Microsoft.AspNet.Server.IIS": "1.0.0-beta7",
         "ClassLibrary": ""
     },
     "frameworks" : {
