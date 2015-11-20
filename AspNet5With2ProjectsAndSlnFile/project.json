@@ -10,7 +10,7 @@
         "**.vspscc"
     ],
     "dependencies": {
-        "Microsoft.AspNet.Server.Kestrel": "1.0.0-beta8",
+        "Microsoft.AspNet.Server.Kestrel": "1.0.0-rc1-final",
         "ClassLibrary": ""
     },
     "commands": {
